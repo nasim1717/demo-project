@@ -107,5 +107,32 @@ main{
     padding-left: 375px;
     padding-right: 374px;
 }
+.help-container{
+    display: flex;
+    gap: 24px;
+    margin-top: 50px;
+}
+.container{
+    background: rgba(79, 157, 166, 0.1);
+    border-radius: 5px;
+}
+.container img{
+   padding-top: 64px;
+   padding-left: 23px;
+   padding-bottom: 31px;
+}
+.container .help-tittle{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    color: #121212;
+    padding-bottom: 16px;
+}
+.container .help-description{
+    padding-left: 18px;
+    padding-right: 22px;
+    padding-bottom: 53px;
+}
 
 
